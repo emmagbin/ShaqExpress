@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64b0738c-6992-4ef6-af3f-cdaeddb0a23f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../mInsur/application/views/cashout.php" afterDir="false" />
+    </list>
+    <ignored path="f_ite_crm.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="f_ite_crm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="31" column="2" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="29" column="58" lean-forward="true" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Open Case</find>
+      <find>description_old_once</find>
+      <find>span</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/views/mychart_view.php" />
+        <option value="$PROJECT_DIR$/assets/logiin.css" />
+        <option value="$PROJECT_DIR$/assets/login.css" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Management.php" />
+        <option value="$PROJECT_DIR$/assets/menu.css" />
+        <option value="$PROJECT_DIR$/asset/css/main.css" />
+        <option value="$PROJECT_DIR$/application/controllers/Settings.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Customer.php" />
+        <option value="$PROJECT_DIR$/application/views/Ite_Staff_View.php" />
+        <option value="$PROJECT_DIR$/application/views/Management_View.php" />
+        <option value="$PROJECT_DIR$/application/views/Feedback_View.php" />
+        <option value="$PROJECT_DIR$/application/views/Settings_View.php" />
+        <option value="$PROJECT_DIR$/application/views/Customer_View.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Dashboard.php" />
+        <option value="$PROJECT_DIR$/application/views/Dashboard_View.php" />
+        <option value="$PROJECT_DIR$/application/views/Client_View.php" />
+        <option value="$PROJECT_DIR$/application/views/Client_Admin_View.php" />
+        <option value="$PROJECT_DIR$/application/views/Login_View.php" />
+        <option value="$PROJECT_DIR$/application/config/autoload.php" />
+        <option value="$PROJECT_DIR$/application/views/Project_View.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Project.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Feedback.php" />
+        <option value="$USER_HOME$/Desktop/LT/assets/css/elephant.min.css" />
+        <option value="$PROJECT_DIR$/application/controllers/pending_cases_contoller.php" />
+        <option value="$PROJECT_DIR$/application/controllers/dashboard_compliance_controller.php" />
+        <option value="$PROJECT_DIR$/application/views/Create A New User.php" />
+        <option value="$PROJECT_DIR$/application/views/login_view.php" />
+        <option value="$PROJECT_DIR$/application/views/approved_cases.php" />
+        <option value="$PROJECT_DIR$/application/views/opened_cases.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard_compliance.php" />
+        <option value="$PROJECT_DIR$/application/controllers/opened_cases_controller.php" />
+        <option value="$PROJECT_DIR$/application/controllers/approved_case_controller.php" />
+        <option value="$PROJECT_DIR$/application/controllers/pending_cases_controller.php" />
+        <option value="$PROJECT_DIR$/application/controllers/login_controller.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Create_A_New_User_controller.php" />
+        <option value="$PROJECT_DIR$/application/views/PlaceOrder.php" />
+        <option value="$PROJECT_DIR$/application/views/Service Category.php" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/models/User.php" />
+        <option value="$PROJECT_DIR$/application/controllers/users_controller.php" />
+        <option value="$PROJECT_DIR$/application/views/pending_cases.php" />
+        <option value="$PROJECT_DIR$/application/controllers/VerifyLogin.php" />
+        <option value="$PROJECT_DIR$/application/views/users.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Case_management_controller.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Service_Category_Controller.php" />
+        <option value="$PROJECT_DIR$/application/views/case management.php" />
+        <option value="$PROJECT_DIR$/application/views/lunch summary.php" />
+        <option value="$PROJECT_DIR$/application/views/login.php" />
+        <option value="$PROJECT_DIR$/application/views/header.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EzCredit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EzCredit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EzCredit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EzCredit" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EzCredit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EzCredit" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="route&#9;FILE&#9;file://C:/xampp/htdocs/f_ite_crm/application/config/routes.php&#10;ro&#9;FILE&#9;file://C:/xampp/htdocs/f_ite_crm/application/config/routes.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.24630542" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\f_ite_crm\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64b0738c-6992-4ef6-af3f-cdaeddb0a23f" name="Default" comment="" />
+      <created>1500404408018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500404408018</updated>
+      <workItem from="1500404409809" duration="228759000" />
+      <workItem from="1501057489436" duration="19358000" />
+      <workItem from="1501145195151" duration="131591000" />
+      <workItem from="1501582612666" duration="39833000" />
+      <workItem from="1501700760777" duration="17671000" />
+      <workItem from="1501992389503" duration="29363000" />
+      <workItem from="1502174607239" duration="38000" />
+      <workItem from="1502175946099" duration="453000" />
+      <workItem from="1502176446315" duration="34000" />
+      <workItem from="1502176550442" duration="167000" />
+      <workItem from="1506675524498" duration="22299000" />
+      <workItem from="1506937804208" duration="1688000" />
+      <workItem from="1506939592487" duration="1828000" />
+      <workItem from="1506941468926" duration="1739000" />
+      <workItem from="1506943312989" duration="1771000" />
+      <workItem from="1506945135626" duration="353000" />
+      <workItem from="1506945670627" duration="10000" />
+      <workItem from="1506946024260" duration="631000" />
+      <workItem from="1506949174873" duration="10836000" />
+      <workItem from="1506973168137" duration="35481000" />
+      <workItem from="1507103080626" duration="16126000" />
+      <workItem from="1507129495110" duration="5004000" />
+      <workItem from="1507187944771" duration="15602000" />
+      <workItem from="1507208032649" duration="16267000" />
+      <workItem from="1507248484258" duration="387000" />
+      <workItem from="1507271535194" duration="17975000" />
+      <workItem from="1507536884191" duration="4131000" />
+      <workItem from="1507545398845" duration="1111000" />
+      <workItem from="1507548553174" duration="1046000" />
+      <workItem from="1507556886450" duration="16339000" />
+      <workItem from="1507630872470" duration="2920000" />
+      <workItem from="1507633979714" duration="152000" />
+      <workItem from="1507634626630" duration="74000" />
+      <workItem from="1507721530565" duration="611000" />
+      <workItem from="1507793350176" duration="17014000" />
+      <workItem from="1555274110915" duration="2331000" />
+      <workItem from="1555412732397" duration="2442000" />
+      <workItem from="1556107076666" duration="4931000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="668366000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22087745" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" weight="0.32713178" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Application Servers" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21156661" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" weight="0.32713178" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Application Servers" order="10" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="93" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/license.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Service_Category_Model.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/senior_Management.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Subject Experts.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Create A New User.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/approved_cases.php" />
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="78" column="41" selection-start-line="78" selection-start-column="41" selection-end-line="78" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard_compliance.php" />
+    <entry file="file://$PROJECT_DIR$/application/models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Service Category.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/sm_responsetime.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/opened_cases.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/pending_cases.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/PlaceOrder.php" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/login_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/VerifyLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="76" column="21" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="154" selection-end-line="1583" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/case management.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/lunch summary.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/login_view.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" column="2" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="58" lean-forward="true" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19746836" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
